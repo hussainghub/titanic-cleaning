@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="088cb647-ba3b-4281-b103-3ad0bf084525" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="088cb647-ba3b-4281-b103-3ad0bf084525" name="Changes" comment="add initial data script for titanic dataset" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1777458869971</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add initial data script for titanic dataset">
+      <option name="closed" value="true" />
+      <created>1777459946622</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1777459946622</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add initial data script for titanic dataset">
+      <option name="closed" value="true" />
+      <created>1777460002702</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1777460002702</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,7 +134,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -132,6 +158,9 @@
     <MESSAGE value="Revert &quot;Add initial data cleaning script for titanic dataset&quot;&#10;&#10;This reverts commit 299348fa4a09fb9e6ff9e8a44a988c6228573dbf." />
     <MESSAGE value="Add initial data cleaning script for titanic dataset&#10;fixed case sensitive error in age indexing" />
     <MESSAGE value="Add initial data cleaning script for titanic dataset" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add initial data cleaning script for titanic dataset" />
+    <MESSAGE value="Revert &quot;add initial data script for titanic dataset&quot;&#10;&#10;This reverts commit 5b9c2814c27b31af89d9e6c69eb463f4097f4fe9." />
+    <MESSAGE value="fixed case-sensitive errors in the Age indexing" />
+    <MESSAGE value="add initial data script for titanic dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="add initial data script for titanic dataset" />
   </component>
 </project>
